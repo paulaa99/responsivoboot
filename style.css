@@ -1,0 +1,29 @@
+
+.navbar {
+    background-color: #333;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+#secPrincipal {
+    margin-top: 20px;
+}
+
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+
+p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+
+.img-fluid {
+    margin: 10px 0;
+}
